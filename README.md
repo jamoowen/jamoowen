@@ -1,4 +1,4 @@
-Welcome to my repository!
+Welcome to my repository! 👋
 
 My name is James, Im passionate about building software, finance, and solving problems. I have a background in finance but ever since discovering
 my love for programming, I have been coding every day since. I learned to code primarily through excellent online programmes such as
