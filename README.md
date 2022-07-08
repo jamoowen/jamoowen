@@ -6,7 +6,7 @@ Harvard University's CS50 course on EdEx. Additionally, I have completed many ot
 
 Pleae have a look at the projects I have created and do not hesitate to reach out if you would like to!
 
-My website ----> https://jamesowen.herokuapp.com
+My website ----> https://www.jamesowen24.com
 
 LinkedIn   ----> https://www.linkedin.com/in/jamesowen1997
 
