@@ -1,9 +1,16 @@
-Welcome to my repository! 👋
+Greetings!
 
-My name is James, I'm passionate about building software to solve problems and automate things. I have a background and formal education in finance but taught myself how to code and entered tech after discovering how much I enjoy it. I have commercial experience working as a back end developer with big data, ETL processes and data modeling. I am also familiar with front end development and smart contract development through my own study and personal projects.
+Welcome to my GitHub repository! 👋
 
-Pleae have a look at the projects I have created and do not hesitate to reach out if you would like to!
+I'm James, a dedicated software enthusiast with a desire to craft elegant solutions and automate processes. While my formal education lies in finance, my passion for coding led me to a transformative journey into the world of technology. Through self-guided learning, I've honed my coding skills and transitioned into the tech industry—a field that truly captivates me.
 
-LinkedIn   ----> https://www.linkedin.com/in/jamesowen1997
+My professional journey has led me to the realm of backend development, where I've delved into significant data handling, ETL processes, and intricate data modeling. My experiences have not been confined to backend work alone and I am in the process of venturing into frontend development and smart contract development. 
 
-Twitter    ----> https://twitter.com/jmsowen24
+I invite you to explore the projects I've meticulously crafted, each one representing a step forward in my continuous pursuit of innovation. If you'd like to connect or learn more about my journey, feel free to reach out!
+
+Let's connect:
+LinkedIn ➡ https://www.linkedin.com/in/jamesowen24
+Twitter  ➡️ https://twitter.com/jmsowen24
+
+Looking forward to future possibilities,
+James
