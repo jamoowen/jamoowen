@@ -1,6 +1,6 @@
 Welcome to my repo! 👋
 
-I'm James, I'm currently trying to build Full Stack apps and Dapps using primarily React (NextJs) and Solidity.
+I'm James, I'm building Full Stack apps and Dapps using primarily React (NextJs) and Solidity.
 
 Most of my commercial experience comes from Product Development w/Python and Data Engineering w/Python/Spark/Databricks
 
