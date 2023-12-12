@@ -11,7 +11,7 @@ on my <a href="medium.com/@jamesowen.dev">medium page</a>
 
 - 🌱 I’m currently learning: **Integrating Sanity CMS into a nextjs app**
 
-- 🎥 I’m building next: **An ecommerce app**
+- 🎥 I’m building next: ****
 
 
 <p align="left">
