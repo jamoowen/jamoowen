@@ -7,9 +7,9 @@ on my <a href="medium.com/@jamesowen.dev">medium page</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamoowen" alt="jamoowen" /></a> </p>
 
-- 🎥 I’m currently building: **Club Stamps web app (Freelance Client)**
+- 🎥 I’m currently building: ***An Interactive stock market chart/anlaysis tool****
 
-- 🌱 I’m currently learning: **Integrating Sanity CMS into a nextjs app**
+- 🌱 I’m currently learning: **Testing with Jest**
 
 - 🎥 I’m building next: ****
 
