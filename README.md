@@ -7,11 +7,9 @@ on my <a href="medium.com/@jamesowen.dev">medium page</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamoowen" alt="jamoowen" /></a> </p>
 
-- 🎥 I’m currently building: ***An Interactive stock market chart/anlaysis tool****
+- 🎥 I’m currently building: ***A smarter job webstite/tracker****
 
-- 🌱 I’m currently learning: **Testing with Jest**
-
-- 🎥 I’m building next: ****
+- 🌱 I’m currently learning: **Golang!**
 
 
 <p align="left">
