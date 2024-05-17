@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋  I'm James Owen</h1>
-<h3 align="center">I'm a Web Developer, currently building with Typescript, React/NextJS. I also have experience as a data engineer, and have written technical articles
+<h3 align="center">I'm a Developer with eperience in Web Development and Data Engineering. 
 on my <a href="medium.com/@jamesowen.dev">medium page</a>
 </h3>
 
