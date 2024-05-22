@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋  I'm James Owen</h1>
 <h3 align="center">I'm a Developer with eperience in Web Development and Data Engineering. 
-on my <a href="medium.com/@jamesowen.dev">medium page</a>
+I'm also a big propopent of decentalization and have written a couple technical defi articles on my <a href="medium.com/@jamesowen.dev">medium page</a>
 </h3>
 
 <p align="left"> <img hidden src="https://komarev.com/ghpvc/?username=jamoowen&label=Profile%20views&color=0e75b6&style=flat" alt="jamoowen" /> </p>
@@ -9,7 +9,7 @@ on my <a href="medium.com/@jamesowen.dev">medium page</a>
 
 - 🎥 I’m currently building: ***A smarter job webstite/tracker: https://github.com/smarterjobs****
 
-- 🌱 I’m currently learning: **Golang!**
+- 🌱 I’m currently learning: **Solidity!**
 
 
 <p align="left">
