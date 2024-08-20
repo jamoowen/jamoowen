@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋  I'm James Owen</h1>
+<h1 align="center">Hi 👋  I'm James </h1>
 <h3 align="center">I'm a Developer with eperience in Web Development and Data Engineering. 
 I'm also a big propopent of decentalization and have written a couple technical defi articles on my <a href="medium.com/@jamesowen.dev">medium page</a>
 </h3>
